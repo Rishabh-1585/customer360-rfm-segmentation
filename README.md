@@ -337,13 +337,6 @@ Customers showing declining activity can be targeted through:
 * Email campaigns
 * Special offers
 
-### 🆕 New Customers
-
-New customers can be encouraged to make repeat purchases through:
-
-* Welcome campaigns
-* Second-purchase discounts
-* Product recommendations
 
 
 
