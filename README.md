@@ -315,31 +315,6 @@ Average RFM Score
 
 ---
 
-# 💡 Business Insights
-
-The project can be used to identify:
-
-### 🏆 High-Value Customers
-
-Customers with high RFM scores can be targeted with:
-
-* Loyalty programs
-* Premium offers
-* Early product access
-* Personalized recommendations
-
-### ⚠️ At-Risk Customers
-
-Customers showing declining activity can be targeted through:
-
-* Re-engagement campaigns
-* Personalized discounts
-* Email campaigns
-* Special offers
-
-
-
-
 # 👨‍💻 Author
 
 **Rishabh Sharma**
