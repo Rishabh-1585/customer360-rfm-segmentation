@@ -345,16 +345,7 @@ New customers can be encouraged to make repeat purchases through:
 * Second-purchase discounts
 * Product recommendations
 
-### ❤️ Loyal Customers
 
-Loyal customers can be retained through:
-
-* Loyalty rewards
-* Cross-selling
-* Upselling
-* Personalized campaigns
-
----
 
 # 👨‍💻 Author
 
