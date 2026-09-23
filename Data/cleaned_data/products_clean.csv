@@ -1,0 +1,301 @@
+product_id,product_name,category,sub_category,price
+P1001,Laptop,Electronics,Laptops,78150.28
+P1002,Laptop,Electronics,Laptops,87804.1
+P1003,Laptop,Electronics,Laptops,76758.91
+P1004,Laptop,Electronics,Laptops,34837.38
+P1005,Laptop,Electronics,Laptops,46259.18
+P1006,Laptop,Electronics,Laptops,91499.55
+P1007,Laptop,Electronics,Laptops,90348.03
+P1008,Business Laptop,Electronics,Laptops,90310.03
+P1009,Business Laptop,Electronics,Laptops,31217.18
+P1010,Business Laptop,Electronics,Laptops,94412.06
+P1011,Business Laptop,Electronics,Laptops,65130.26
+P1012,Business Laptop,Electronics,Laptops,85492.92
+P1013,Business Laptop,Electronics,Laptops,51766.37
+P1014,Business Laptop,Electronics,Laptops,91562.29
+P1015,Gaming Laptop,Electronics,Laptops,108582.54
+P1016,Gaming Laptop,Electronics,Laptops,50283.1
+P1017,Gaming Laptop,Electronics,Laptops,92735.81
+P1018,Gaming Laptop,Electronics,Laptops,78396.04
+P1019,Gaming Laptop,Electronics,Laptops,51847.67
+P1020,Gaming Laptop,Electronics,Laptops,53548.56
+P1021,Gaming Laptop,Electronics,Laptops,88531.01
+P1022,Ultrabook,Electronics,Laptops,52747.68
+P1023,Ultrabook,Electronics,Laptops,33823.49
+P1024,Ultrabook,Electronics,Laptops,99916.82
+P1025,Ultrabook,Electronics,Laptops,77115.94
+P1026,Ultrabook,Electronics,Laptops,90677.89
+P1027,Ultrabook,Electronics,Laptops,78257.9
+P1028,Ultrabook,Electronics,Laptops,71316.59
+P1029,Smartphone,Electronics,Mobiles,63438.73
+P1030,Smartphone,Electronics,Mobiles,10315.26
+P1031,Smartphone,Electronics,Mobiles,30455.83
+P1032,Smartphone,Electronics,Mobiles,53177.75
+P1033,Smartphone,Electronics,Mobiles,75966.18
+P1034,Smartphone,Electronics,Mobiles,36342.85
+P1035,Smartphone,Electronics,Mobiles,78220.95
+P1036,Android Phone,Electronics,Mobiles,62380.29
+P1037,Android Phone,Electronics,Mobiles,42912.54
+P1038,Android Phone,Electronics,Mobiles,38899.41
+P1039,Android Phone,Electronics,Mobiles,17319.86
+P1040,Android Phone,Electronics,Mobiles,52293.98
+P1041,Android Phone,Electronics,Mobiles,11769.46
+P1042,Android Phone,Electronics,Mobiles,38893.35
+P1043,5G Smartphone,Electronics,Mobiles,25115.03
+P1044,5G Smartphone,Electronics,Mobiles,76852.6
+P1045,5G Smartphone,Electronics,Mobiles,34155.0
+P1046,5G Smartphone,Electronics,Mobiles,43226.27
+P1047,5G Smartphone,Electronics,Mobiles,35035.5
+P1048,5G Smartphone,Electronics,Mobiles,17879.11
+P1049,5G Smartphone,Electronics,Mobiles,33385.91
+P1050,Tablet,Electronics,Tablets,48949.94
+P1051,Tablet,Electronics,Tablets,41059.78
+P1052,Tablet,Electronics,Tablets,31870.75
+P1053,Tablet,Electronics,Tablets,51028.53
+P1054,Tablet,Electronics,Tablets,10207.44
+P1055,Tablet,Electronics,Tablets,51330.04
+P1056,Tablet,Electronics,Tablets,12976.78
+P1057,Android Tablet,Electronics,Tablets,53513.6
+P1058,Android Tablet,Electronics,Tablets,57378.6
+P1059,Android Tablet,Electronics,Tablets,50958.47
+P1060,Android Tablet,Electronics,Tablets,10979.69
+P1061,Android Tablet,Electronics,Tablets,36310.4
+P1062,Android Tablet,Electronics,Tablets,51439.81
+P1063,Android Tablet,Electronics,Tablets,37250.82
+P1064,LED Monitor,Electronics,Monitors,22477.28
+P1065,LED Monitor,Electronics,Monitors,27239.9
+P1066,LED Monitor,Electronics,Monitors,10469.84
+P1067,LED Monitor,Electronics,Monitors,28341.49
+P1068,LED Monitor,Electronics,Monitors,8197.41
+P1069,LED Monitor,Electronics,Monitors,34696.96
+P1070,LED Monitor,Electronics,Monitors,23789.45
+P1071,Gaming Monitor,Electronics,Monitors,15227.75
+P1072,Gaming Monitor,Electronics,Monitors,7747.46
+P1073,Gaming Monitor,Electronics,Monitors,46651.12
+P1074,Gaming Monitor,Electronics,Monitors,30921.72
+P1075,Gaming Monitor,Electronics,Monitors,34819.0
+P1076,Gaming Monitor,Electronics,Monitors,40512.38
+P1077,Gaming Monitor,Electronics,Monitors,33943.39
+P1078,4K Monitor,Electronics,Monitors,24763.47
+P1079,4K Monitor,Electronics,Monitors,33986.29
+P1080,4K Monitor,Electronics,Monitors,17858.21
+P1081,4K Monitor,Electronics,Monitors,31138.12
+P1082,4K Monitor,Electronics,Monitors,15840.25
+P1083,4K Monitor,Electronics,Monitors,46449.18
+P1084,4K Monitor,Electronics,Monitors,28911.41
+P1085,Keyboard,Electronics,Accessories,3189.16
+P1086,Keyboard,Electronics,Accessories,7855.77
+P1087,Keyboard,Electronics,Accessories,1538.68
+P1088,Keyboard,Electronics,Accessories,5491.22
+P1089,Keyboard,Electronics,Accessories,10458.59
+P1090,Keyboard,Electronics,Accessories,9330.37
+P1091,Keyboard,Electronics,Accessories,8589.55
+P1092,Mouse,Electronics,Accessories,5911.94
+P1093,Mouse,Electronics,Accessories,5639.11
+P1094,Mouse,Electronics,Accessories,630.06
+P1095,Mouse,Electronics,Accessories,7400.44
+P1096,Mouse,Electronics,Accessories,7135.6
+P1097,Mouse,Electronics,Accessories,560.71
+P1098,Mouse,Electronics,Accessories,2076.0
+P1099,Headphones,Electronics,Accessories,643.02
+P1100,Headphones,Electronics,Accessories,3411.56
+P1101,Headphones,Electronics,Accessories,544.31
+P1102,Headphones,Electronics,Accessories,5299.75
+P1103,Headphones,Electronics,Accessories,5978.52
+P1104,Headphones,Electronics,Accessories,5526.44
+P1105,Headphones,Electronics,Accessories,2792.98
+P1106,Webcam,Electronics,Accessories,6520.93
+P1107,Webcam,Electronics,Accessories,9862.09
+P1108,Webcam,Electronics,Accessories,3848.98
+P1109,Webcam,Electronics,Accessories,4094.62
+P1110,Webcam,Electronics,Accessories,6742.5
+P1111,Webcam,Electronics,Accessories,3188.18
+P1112,Webcam,Electronics,Accessories,4384.54
+P1113,Office Chair,Furniture,Chairs,12679.84
+P1114,Office Chair,Furniture,Chairs,11191.8
+P1115,Office Chair,Furniture,Chairs,20910.23
+P1116,Office Chair,Furniture,Chairs,21602.36
+P1117,Office Chair,Furniture,Chairs,11564.77
+P1118,Office Chair,Furniture,Chairs,12575.2
+P1119,Office Chair,Furniture,Chairs,24030.12
+P1120,Ergonomic Chair,Furniture,Chairs,13819.47
+P1121,Ergonomic Chair,Furniture,Chairs,24843.22
+P1122,Ergonomic Chair,Furniture,Chairs,19663.06
+P1123,Ergonomic Chair,Furniture,Chairs,8445.22
+P1124,Ergonomic Chair,Furniture,Chairs,7654.58
+P1125,Ergonomic Chair,Furniture,Chairs,6078.95
+P1126,Ergonomic Chair,Furniture,Chairs,20638.28
+P1127,Visitor Chair,Furniture,Chairs,9404.4
+P1128,Visitor Chair,Furniture,Chairs,17705.33
+P1129,Visitor Chair,Furniture,Chairs,14653.06
+P1130,Visitor Chair,Furniture,Chairs,21084.94
+P1131,Visitor Chair,Furniture,Chairs,19393.39
+P1132,Visitor Chair,Furniture,Chairs,3934.35
+P1133,Visitor Chair,Furniture,Chairs,10114.62
+P1134,Office Table,Furniture,Tables,25324.05
+P1135,Office Table,Furniture,Tables,36949.2
+P1136,Office Table,Furniture,Tables,33275.13
+P1137,Office Table,Furniture,Tables,26525.56
+P1138,Office Table,Furniture,Tables,37143.39
+P1139,Office Table,Furniture,Tables,21832.07
+P1140,Office Table,Furniture,Tables,6282.04
+P1141,Study Table,Furniture,Tables,39691.96
+P1142,Study Table,Furniture,Tables,25590.33
+P1143,Study Table,Furniture,Tables,37144.53
+P1144,Study Table,Furniture,Tables,20075.35
+P1145,Study Table,Furniture,Tables,28130.64
+P1146,Study Table,Furniture,Tables,17574.81
+P1147,Study Table,Furniture,Tables,20792.57
+P1148,Conference Table,Furniture,Tables,10043.33
+P1149,Conference Table,Furniture,Tables,34405.75
+P1150,Conference Table,Furniture,Tables,15491.66
+P1151,Conference Table,Furniture,Tables,16370.98
+P1152,Conference Table,Furniture,Tables,18521.75
+P1153,Conference Table,Furniture,Tables,21717.17
+P1154,Conference Table,Furniture,Tables,27622.72
+P1155,Bookcase,Furniture,Bookcases,21435.78
+P1156,Bookcase,Furniture,Bookcases,21243.62
+P1157,Bookcase,Furniture,Bookcases,14439.38
+P1158,Bookcase,Furniture,Bookcases,16011.05
+P1159,Bookcase,Furniture,Bookcases,6788.65
+P1160,Bookcase,Furniture,Bookcases,17080.66
+P1161,Bookcase,Furniture,Bookcases,26680.53
+P1162,Storage Rack,Furniture,Bookcases,15432.15
+P1163,Storage Rack,Furniture,Bookcases,28326.37
+P1164,Storage Rack,Furniture,Bookcases,7206.16
+P1165,Storage Rack,Furniture,Bookcases,22896.56
+P1166,Storage Rack,Furniture,Bookcases,22115.7
+P1167,Storage Rack,Furniture,Bookcases,21401.28
+P1168,Storage Rack,Furniture,Bookcases,20897.14
+P1169,Display Shelf,Furniture,Bookcases,3602.32
+P1170,Display Shelf,Furniture,Bookcases,23037.3
+P1171,Display Shelf,Furniture,Bookcases,16491.48
+P1172,Display Shelf,Furniture,Bookcases,17153.03
+P1173,Display Shelf,Furniture,Bookcases,4373.56
+P1174,Display Shelf,Furniture,Bookcases,8086.29
+P1175,Display Shelf,Furniture,Bookcases,27597.19
+P1176,Work Desk,Furniture,Desks,19198.78
+P1177,Work Desk,Furniture,Desks,22724.61
+P1178,Work Desk,Furniture,Desks,13514.16
+P1179,Work Desk,Furniture,Desks,33448.59
+P1180,Work Desk,Furniture,Desks,38331.54
+P1181,Work Desk,Furniture,Desks,46456.78
+P1182,Work Desk,Furniture,Desks,30292.86
+P1183,Computer Desk,Furniture,Desks,17403.38
+P1184,Computer Desk,Furniture,Desks,8193.35
+P1185,Computer Desk,Furniture,Desks,16974.92
+P1186,Computer Desk,Furniture,Desks,32826.4
+P1187,Computer Desk,Furniture,Desks,48834.66
+P1188,Computer Desk,Furniture,Desks,8563.9
+P1189,Computer Desk,Furniture,Desks,22476.49
+P1190,Executive Desk,Furniture,Desks,35025.61
+P1191,Executive Desk,Furniture,Desks,30855.69
+P1192,Executive Desk,Furniture,Desks,34326.17
+P1193,Executive Desk,Furniture,Desks,25844.38
+P1194,Executive Desk,Furniture,Desks,17016.65
+P1195,Executive Desk,Furniture,Desks,26723.85
+P1196,Executive Desk,Furniture,Desks,22169.13
+P1197,Binder,Office Supplies,Binders,590.69
+P1198,Binder,Office Supplies,Binders,203.57
+P1199,Binder,Office Supplies,Binders,437.23
+P1200,Binder,Office Supplies,Binders,770.53
+P1201,Binder,Office Supplies,Binders,462.89
+P1202,Binder,Office Supplies,Binders,250.79
+P1203,Binder,Office Supplies,Binders,753.81
+P1204,File Folder,Office Supplies,Binders,255.79
+P1205,File Folder,Office Supplies,Binders,620.85
+P1206,File Folder,Office Supplies,Binders,158.86
+P1207,File Folder,Office Supplies,Binders,693.5
+P1208,File Folder,Office Supplies,Binders,210.01
+P1209,File Folder,Office Supplies,Binders,363.81
+P1210,File Folder,Office Supplies,Binders,775.25
+P1211,Ring Binder,Office Supplies,Binders,497.16
+P1212,Ring Binder,Office Supplies,Binders,270.08
+P1213,Ring Binder,Office Supplies,Binders,80.45
+P1214,Ring Binder,Office Supplies,Binders,84.89
+P1215,Ring Binder,Office Supplies,Binders,277.7
+P1216,Ring Binder,Office Supplies,Binders,459.34
+P1217,Ring Binder,Office Supplies,Binders,429.12
+P1218,A4 Paper,Office Supplies,Paper,1398.45
+P1219,A4 Paper,Office Supplies,Paper,1193.32
+P1220,A4 Paper,Office Supplies,Paper,1402.16
+P1221,A4 Paper,Office Supplies,Paper,865.31
+P1222,A4 Paper,Office Supplies,Paper,780.67
+P1223,A4 Paper,Office Supplies,Paper,935.91
+P1224,A4 Paper,Office Supplies,Paper,683.79
+P1225,Copy Paper,Office Supplies,Paper,474.05
+P1226,Copy Paper,Office Supplies,Paper,1287.66
+P1227,Copy Paper,Office Supplies,Paper,1084.69
+P1228,Copy Paper,Office Supplies,Paper,623.36
+P1229,Copy Paper,Office Supplies,Paper,780.17
+P1230,Copy Paper,Office Supplies,Paper,493.08
+P1231,Copy Paper,Office Supplies,Paper,931.69
+P1232,Photo Paper,Office Supplies,Paper,665.87
+P1233,Photo Paper,Office Supplies,Paper,1338.25
+P1234,Photo Paper,Office Supplies,Paper,886.87
+P1235,Photo Paper,Office Supplies,Paper,735.25
+P1236,Photo Paper,Office Supplies,Paper,1174.51
+P1237,Photo Paper,Office Supplies,Paper,1376.63
+P1238,Photo Paper,Office Supplies,Paper,1262.64
+P1239,Ball Pen,Office Supplies,Pens,262.61
+P1240,Ball Pen,Office Supplies,Pens,197.53
+P1241,Ball Pen,Office Supplies,Pens,341.2
+P1242,Ball Pen,Office Supplies,Pens,413.93
+P1243,Ball Pen,Office Supplies,Pens,489.96
+P1244,Ball Pen,Office Supplies,Pens,244.91
+P1245,Ball Pen,Office Supplies,Pens,344.07
+P1246,Gel Pen,Office Supplies,Pens,167.76
+P1247,Gel Pen,Office Supplies,Pens,71.11
+P1248,Gel Pen,Office Supplies,Pens,148.94
+P1249,Gel Pen,Office Supplies,Pens,36.81
+P1250,Gel Pen,Office Supplies,Pens,269.43
+P1251,Gel Pen,Office Supplies,Pens,205.38
+P1252,Gel Pen,Office Supplies,Pens,348.79
+P1253,Marker,Office Supplies,Pens,319.2
+P1254,Marker,Office Supplies,Pens,108.9
+P1255,Marker,Office Supplies,Pens,346.7
+P1256,Marker,Office Supplies,Pens,118.08
+P1257,Marker,Office Supplies,Pens,32.8
+P1258,Marker,Office Supplies,Pens,485.99
+P1259,Marker,Office Supplies,Pens,42.68
+P1260,File Box,Office Supplies,Storage,1156.9
+P1261,File Box,Office Supplies,Storage,1985.03
+P1262,File Box,Office Supplies,Storage,1237.05
+P1263,File Box,Office Supplies,Storage,1267.39
+P1264,File Box,Office Supplies,Storage,2223.64
+P1265,File Box,Office Supplies,Storage,1886.03
+P1266,File Box,Office Supplies,Storage,1651.46
+P1267,Document Tray,Office Supplies,Storage,2681.69
+P1268,Document Tray,Office Supplies,Storage,502.72
+P1269,Document Tray,Office Supplies,Storage,1515.35
+P1270,Document Tray,Office Supplies,Storage,869.39
+P1271,Document Tray,Office Supplies,Storage,303.06
+P1272,Document Tray,Office Supplies,Storage,2941.29
+P1273,Document Tray,Office Supplies,Storage,2255.28
+P1274,Storage Box,Office Supplies,Storage,805.32
+P1275,Storage Box,Office Supplies,Storage,1326.82
+P1276,Storage Box,Office Supplies,Storage,832.87
+P1277,Storage Box,Office Supplies,Storage,2117.59
+P1278,Storage Box,Office Supplies,Storage,1181.25
+P1279,Storage Box,Office Supplies,Storage,2775.62
+P1280,Storage Box,Office Supplies,Storage,781.15
+P1281,Copy Paper,Office Supplies,Paper,1350.08
+P1282,Binder,Office Supplies,Binders,427.81
+P1283,Headphones,Electronics,Accessories,7828.72
+P1284,Gel Pen,Office Supplies,Pens,462.86
+P1285,Tablet,Electronics,Tablets,33636.19
+P1286,4K Monitor,Electronics,Monitors,28161.78
+P1287,Smartphone,Electronics,Mobiles,40416.54
+P1288,Conference Table,Furniture,Tables,18437.76
+P1289,Gaming Monitor,Electronics,Monitors,10335.29
+P1290,Storage Rack,Furniture,Bookcases,3787.42
+P1291,4K Monitor,Electronics,Monitors,9172.01
+P1292,Document Tray,Office Supplies,Storage,2892.31
+P1293,5G Smartphone,Electronics,Mobiles,18878.67
+P1294,Binder,Office Supplies,Binders,461.98
+P1295,Visitor Chair,Furniture,Chairs,17663.25
+P1296,Marker,Office Supplies,Pens,346.44
+P1297,Marker,Office Supplies,Pens,344.85
+P1298,Photo Paper,Office Supplies,Paper,925.56
+P1299,Study Table,Furniture,Tables,22049.64
+P1300,Work Desk,Furniture,Desks,23696.07
